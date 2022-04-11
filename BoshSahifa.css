@@ -1,0 +1,173 @@
+.all-wrap{
+    width: 100%;
+    height: 100vh;
+    background: rgb(196, 149, 240) !important;
+   
+}
+
+.bosh-sah-wrapper{
+    width: 1920px;
+    height: 1485px;
+    background: #fff;
+
+}
+
+.sahifa-bg{
+    height: 843px;
+    background: url(../ProjectImg/projectBG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    position: relative;
+}
+
+
+
+
+
+
+
+.smm{
+    font-weight: 900;
+    font-size: 214.303px;
+    line-height: 256px;
+    color: #FFFFFF;
+    margin-top: 100px;
+}
+
+.smm-text{
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 15px;
+    color: #FFFFFF; 
+}
+
+.smm-parag{
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 23px;
+    color: #FFFFFF;
+    width: 514px;
+    height: 69px;
+    margin: auto;
+    padding-top: 80px ;
+    
+}
+
+.smm-btn{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    padding: 10px 26px;
+    background: #27D124;
+    border-radius: 11px;
+    margin-top: 102px;
+    margin-bottom: 45px;
+}
+
+.ins{
+    position: absolute;
+    top: 80px;
+    right: 500px;
+    width: 180px;
+    height: 198px;
+
+}
+.face{
+    position: absolute;
+    transform: rotate(-24deg);
+    top: 250px;
+    right: 550px;
+    width: 135px;
+    height: 107px;
+}
+.you{
+    position: absolute;
+    width: 113.13px;
+    height: 132.85px;
+    transform: rotate(-24deg);
+    top: 300px;
+    right: 500px;
+}
+.song{
+    position: absolute;
+    width: 75px;
+    height: 83px;
+    right: 550px;
+    top: 400px;
+}
+.twit{
+    position: absolute;
+    width: 61.04px;
+    height: 57.77px;
+    top: 480px;
+    right: 530px;
+    transform: rotate(17.93deg);
+}
+
+
+
+
+
+
+
+
+
+
+.heading-box{
+   width: 1920px;
+   height: 79px;
+   background: #000000;
+}
+
+.mijoz-heading{
+    font-weight: 300;
+    font-size: 38.6778px;
+    line-height: 46px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+/* .img-fluid{ */
+    /* display: grid;
+    grid-template-columns: repeat(7, 1fr) !important;            Grid ishlamadi negadur */
+
+  
+/* } */
+
+.mijoz-row{
+    height: 561px !important;
+    padding-top: 77px;
+    padding-bottom: 103px;
+    padding-left: 406px;
+    padding-right: 406px;
+}
+
+.mijoz-row img{
+    margin: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
